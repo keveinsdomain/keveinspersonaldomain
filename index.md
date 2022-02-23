@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+<body>
+<h1>Kevein Legerme</h1>
+<p> I am Luckevein Legrme, but go by Kevein for most of my life from what i can remember. Im 18 years old , used to live in New york but moved and,now currently been a florida resident for over 10 years now. <br />this my first year taking website development.and my first year in <a href="https://valenciacollege.edu">valencia college</a>  I decided to take this class because, i enjoy computers <br />a lot and thought taking this class would help me to understand more of it in the long run. I am excited to take this class to further <br />my knowledge and understanding on Html and website development this semester.</p>
+<hr />
+<h2><strong>Hobbies</strong></h2> <p> For hobbies i really enjoy relaxing by gardening, which i've gotten into recently or by watching or playing sports such as , basketball <br /> soccer, football. One of my favorite hobbies I have enjoyed to do since being a little kid is, reading or collection comics and manga <br /> and, watching anime.Even though i sold many of my collections i still have a reletively big collection of <a href="https://www.google.com/search?q=Manga+are+comics+or+graphic+novels+originating+from+Japan&lr=lang_en&rlz=1CAEVJI_enUS962US962&biw=1536&bih=738&tbs=lr%3Alang_1en&sxsrf=AOaemvJ5JmjOgkdlSAyleYgxnMaM6q-uQg%3A1634363787053&ei=i2lqYbLVAuCtqtsPgrSeyAM&ved=0ahUKEwjyxtfHn87zAhXglmoFHQKaBzkQ4dUDCA4&oq=Manga+are+comics+or+graphic+novels+originating+from+Japan&gs_lcp=Cgdnd3Mtd2l6EAwyBQghEKABMgUIIRCrAjoHCAAQRxCwAzoHCCMQ6gIQJ0oECEEYAFDTfViZlwFg16YBaARwAngAgAGFAogBhQKSAQMyLTGYAQCgAQGgAQKwAQrIAQjAAQE&sclient=gws-wiz">manga</a> and comics. Some of my favourites in both include Dragon ball, Naruto,Batman<br /> Supperman, Black panther, Hulk, Jujutsu Kaisen, Bleachand, currently trying to catch up on One peice. Catching up on it has taken a lot of time which is currently what i/m enjoying at the moment <br /> to do with spare time. 
+<!-- 10/15/21-->
+<a></a>
+</body>
 
-You can use the [editor on GitHub](https://github.com/keveinsdomain/keveinspersonaldomain/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/keveinsdomain/keveinspersonaldomain/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html> 
